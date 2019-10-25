@@ -5,7 +5,7 @@ session_start();
 if($_SESSION['username']==true)
 {
 ?>
-
+//Hi
 <!DOCTYPE html>
 <html lang="en">
 <head>
